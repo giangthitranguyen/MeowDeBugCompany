@@ -1,1 +1,2 @@
-# WorkforcePlanning
+# MeowDeBug Company (MC) is a fictional entity created for illustrative purposes as part of my portfolio projects. It’s named after my beloved cat and serves as a creative framework for me to demonstrate my skills in HR analytics. While the company itself is fictional, the examples and scenarios I’ve developed in this deck are particularly tailored to the tech sector.
+All data and information used is either publicly available or anonymized to ensure compliance with confidentiality and ethical standards. Any resemblance to actual companies, individuals, or proprietary information is purely coincidental.
